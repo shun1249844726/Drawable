@@ -17,7 +17,9 @@
     <scale >
 ## ClipDrawable
     <clip >
-##
+## NinePatchDrawable
+    <nine-patch >
+
 
 
 详细可以参考《Android 开发艺术探索》
