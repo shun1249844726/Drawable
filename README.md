@@ -25,4 +25,4 @@
 详细可以参考《Android 开发艺术探索》
 或者
 [Android中常用的Drawable](http://www.jianshu.com/p/fd358b03b64c)
-![shape ]()
+![shape]()
